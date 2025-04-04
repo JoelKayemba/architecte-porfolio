@@ -25,10 +25,7 @@ const HeaderContainer = styled.header`
 `;
 
 
-const Logo = styled.h1`
-  font-size: 22px;
-  color: #151918;
-`;
+
 
 const NavLinks = styled.nav`
   display: flex;
